@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZuktTomas
 - 👀 I’m interested in quantitative finance 
 - 🌱 I’m currently learning quantitative models
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me t.zuquete.f@gmiail.com
 
 <!---
